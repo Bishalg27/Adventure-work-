@@ -95,4 +95,11 @@ The project demonstrated how data analysis can directly impact organizational de
 Effective visualization,showing the important and in depth visualization according to the viewers is crucial. It helps to build a dashboard with the things that they need to know .
 
 
+## Files Information
+
+```Dashboard:``` contains all the 4 sheets of the dashboards.
+```DAX Measure:``` contains all the measure that required to build this project
+```Relationship``` contains the screenshot of the relationship needed to build .
+```Raw Data``` contains the files needed to create this project
+
 
