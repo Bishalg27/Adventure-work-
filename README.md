@@ -98,8 +98,30 @@ Effective visualization,showing the important and in depth visualization accordi
 ## Files Information
 
 ```Dashboard:``` contains all the 4 sheets of the dashboards.
-```DAX Measure:``` contains all the measure that required to build this project
-```Relationship``` contains the screenshot of the relationship needed to build .
-```Raw Data``` contains the files needed to create this project
+
+
+```DAX Measure:``` contains all the measure that required to build this project.
+
+```Relationship``` contains the screenshot of the relationship needed to build.
+
+```Raw Data``` contains the files needed to create this project.
+
+## Tech Stack
+
+``Power Query`` Used for Data Cleaning, Processing,Modeling,Data analysis and Dashboard Making.
+
+## Data Source
+
+[Udemy](https://www.udemy.com/share/101raQ3@dsKVfcIww8AgbAf6m_5xwktYmBiKkthXVrPaAIo_xytWKByNxKKxwsNjhbT9Q4AkKQ==/)
+
+
+## License
+
+This project is licensed under the MIT License, allowing you to use, modify, and distribute the code and visuals while maintaining the original license terms.
+
+For questions or feedback, please contact: Vishugoswami27@gmai.com
+
+Enjoy exploring the project! :)
+
 
 
